@@ -16,7 +16,7 @@
 
 body[data-theme='light']{
    --colors-text: hsl(200, 15%, 8%);
-  --colors-bg: hsl(0, 0%, 90%);
+  --colors-bg: hsl(0, 0%, 85%);
   --colors-ui-base: hsl(0, 0%, 80%);
 
   --shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;

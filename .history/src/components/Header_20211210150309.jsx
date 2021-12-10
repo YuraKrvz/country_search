@@ -16,16 +16,13 @@ const Title = styled.h1`
    color: var(--colors-text);
    font-size: var(--font-md);
    font-weight: var(--fw-bold);
-   // text-transform: uppercase;
+   text-transform: uppercase;
 `;
 
 function Header() {
    return (
       <WrapperHeader>
-         <Title>
-            Search country 
-            <BiWorld /> 
-         </Title>
+         <Title>Search country <BiWorld /> </Title>
          <ThemeToggler />
       </WrapperHeader>
    )
