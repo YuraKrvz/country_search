@@ -1,0 +1,16 @@
+@import '~normalize.css';
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+
+*{
+   box-sizing: border-box;
+}
+:root{
+   --font-f: 'Libre Baskerville', serif;
+   --font-sm: 14px;
+   --font-md: 16px;
+
+   --fw-light: 300;
+   --fw-: 300;
+   --fw-light: 300;
+
+}

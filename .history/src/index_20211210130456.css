@@ -22,11 +22,7 @@ body[data-theme='light']{
   --shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 body[data-theme='dark']{
-   --colors-text: hsl(0, 0%, 100%);
-   --colors-bg: hsl(207, 26%, 17%);
-   --colors-ui-base: hsl(209, 23%, 22%);
- 
-   --shadow: rgba(245, 245, 245, 0.2) 0 0 8px;
+
 }
 
 body{
