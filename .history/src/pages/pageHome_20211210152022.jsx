@@ -3,7 +3,7 @@ import ListCountries from '../components/ListCountries';
 function PageHome() {
    return (
       <div>
-         <ListCountries />
+         home page
       </div>
    )
 }

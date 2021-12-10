@@ -19,7 +19,7 @@ body[data-theme='light']{
   --colors-bg: hsl(0, 0%, 90%);
   --colors-ui-base: hsl(0, 0%, 80%);
 
-  --shadow: rgba(149, 157, 165, 0.6) 0px 8px 24px;
+  --shadow: rgba(149, 157, 165, 0.8) 0px 8px 24px;
 }
 body[data-theme='dark']{
    --colors-text: hsl(0, 0%, 100%);
