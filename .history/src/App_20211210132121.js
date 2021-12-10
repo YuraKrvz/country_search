@@ -10,8 +10,8 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path='/' element={ <PageHome/> } />
-        <Route path='country' element={ <PageCountry/> } />
+        <Route path='/' component={ <PageHome/> } />
+        <Route path='country' component={ <PageCountry/> } />
       </Routes>
     </BrowserRouter>
   );

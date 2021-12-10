@@ -4,14 +4,14 @@ import {
   Route
 } from "react-router-dom";
 import PageHome from './pages/PageHome';
-import PageCountry from './pages/PageCountry';
+import PageCountry from './pages/PageCoontry';
 
 function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path='/' element={ <PageHome/> } />
-        <Route path='country' element={ <PageCountry/> } />
+        <Route path='/' component={PageHome} />
+        <Route path='/' component={PageCountry} />
       </Routes>
     </BrowserRouter>
   );
